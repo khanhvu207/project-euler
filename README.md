@@ -10,7 +10,7 @@ Friend key: 1463704_DtyNg610Tii7JZGHyiBI39BS6aqFdkXG
 
 ## Badges
 
-| Level 1 | Level 2 | Level 3 |
+| Level 1 (solved 25 problems) | Level 2 (solved 50 problems) | Level 3 (solved 75 problems) |
 | --- | --- | --- |
 |![Level-1](https://projecteuler.net/images/levels/level_1.png)| In progess | In progess |
 
