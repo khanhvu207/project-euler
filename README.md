@@ -1,5 +1,5 @@
 # project-euler
-This repository stores my programming solution (mainly in cpp) for projecteuler.net
+This repository stores my programming solution for [projecteuler.net](https://projecteuler.net/)
 
 ## Progress
 
