@@ -2,3 +2,6 @@
 make_prob.py
 checker.py
 main.cpp
+
+# Envs
+.vscode
