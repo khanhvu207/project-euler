@@ -6,7 +6,7 @@ Friend key: 1463704_DtyNg610Tii7JZGHyiBI39BS6aqFdkXG
 
 ## Progress
 
-![Progession_badge](https://projecteuler.net/profile/Saasm.png)
+[Click here](https://projecteuler.net/profile/Saasm.png)
 
 ## Checklist
 
