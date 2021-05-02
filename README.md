@@ -8,4 +8,4 @@ This repository stores my programming solution (mainly in cpp) for projecteuler.
 ## Checklist
 
 - [x] Set up a local workspace.  
-- [] Reach level 4 (100 solved problems) before 1 July 2021. 
+- [ ] Reach level 4 (100 solved problems) before 1 July 2021. 
