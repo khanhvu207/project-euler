@@ -5,3 +5,6 @@ main.cpp
 
 # Envs
 .vscode
+
+# Executable files
+*.exe
