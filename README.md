@@ -4,7 +4,7 @@ This repository stores my programming solution for [projecteuler.net](https://pr
 
 ## Progress
 
-![Progession_badge](https://projecteuler.net/profile/Saasm.png)
+[![Progession_badge](https://projecteuler.net/profile/Saasm.png)](https://projecteuler.net/profile/Saasm.png)
 
 ## Checklist
 
