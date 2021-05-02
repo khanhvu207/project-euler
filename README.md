@@ -8,7 +8,11 @@ Friend key: 1463704_DtyNg610Tii7JZGHyiBI39BS6aqFdkXG
 
 [Real-time progess](https://projecteuler.net/profile/Saasm.png)  
 
-![Level-1](https://projecteuler.net/images/levels/level_1.png)
+## Badges
+
+| Level 1 | Level 2 | Level 3 |
+| --- | --- | --- |
+|![Level-1](https://projecteuler.net/images/levels/level_1.png)| In progess | In progess |
 
 ## Checklist
 
