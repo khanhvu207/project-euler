@@ -13,8 +13,3 @@ Friend key: 1463704_DtyNg610Tii7JZGHyiBI39BS6aqFdkXG
 | Level 1 | Level 2 | Level 3 |
 | --- | --- | --- |
 |![Level-1](https://projecteuler.net/images/levels/level_1.png)| In progess | In progess |
-
-## Checklist
-
-- [x] Set up a local workspace.  
-- [ ] Reach level 4 (100 solved problems) before 1 July 2021. 
