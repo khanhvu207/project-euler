@@ -6,7 +6,7 @@ Friend key: 1463704_DtyNg610Tii7JZGHyiBI39BS6aqFdkXG
 
 ## Progress
 
-[Real-time progess](https://projecteuler.net/profile/Saasm.png)  
+[Real-time progess](https://projecteuler.net/profile/entropy07.png)  
 
 ## Badges
 
