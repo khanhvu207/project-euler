@@ -6,10 +6,4 @@ Friend key: 1463704_DtyNg610Tii7JZGHyiBI39BS6aqFdkXG
 
 ## Progress
 
-[Real-time progess](https://projecteuler.net/profile/entropy07.png)  
-
-## Badges
-
-| Level 1 | Level 2 | Level 3 |
-| --- | --- | --- |
-|![Level-1](https://projecteuler.net/images/levels/level_1.png)| In progess | In progess |
+![Real-time progess](https://projecteuler.net/profile/entropy07.png)  
